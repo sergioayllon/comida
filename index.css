@@ -1,0 +1,11 @@
+.logo a{
+color:black;
+}
+.logo img{
+	width:10%;
+	}
+.logo{
+border:solid 1px black;
+border-radius:10px;
+background-color:white;
+}
